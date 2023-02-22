@@ -16,4 +16,4 @@ print("What is your age?")
 
 myAge = input()
 
-print("Your age is " + myAge);
+print("Your age is " + myAge)
